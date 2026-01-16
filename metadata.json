@@ -1,0 +1,6 @@
+{
+  "name": "Notion Todo — Warm Paper Notebook Task Manager",
+  "description": "A feature-rich Notion-inspired todo app with recurring tasks, priority levels, drag-and-drop Kanban & list organization, cloud sync, and detailed productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
